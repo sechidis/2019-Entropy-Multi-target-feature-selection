@@ -1,4 +1,4 @@
-# 2019 - ESANN - Information theoretic multi-target feature selection via output space quantization (under review)
+# 2019 - Information theoretic multi-target feature selection via output space quantization (under review)
 
 Matlab code for the methods presented in:
 
