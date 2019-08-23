@@ -5,9 +5,9 @@ Matlab code for the methods presented in:
 K. Sechidis, E. Spyromitros-Xioufis and I. Vlahavas, Information theoretic multi-target feature selection via output space quantization (under review)
 
 ##  Group-JMI-Rand: a novel multi-target FS criterion
-* Group_JMI.m - Implements our novel multi-target feature selection method 
+* Group_JMI_Rand.m - Implements our novel multi-target feature selection method 
 
-## Tutorial
-The tutorial 'Tutorial_Multi_target_FS.m' presents how to select features using our suggested method.
+## Tutorials
+The tutorial 'Tutorial_Multi_label_FS.m' presents how to select features from multi-label datasets using our suggested method, while the tutorial 'Tutorial_Multivariate_regression_FS.m' presents how to select featues from multivariate-regression datasets. 
 
 
